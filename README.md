@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sean Yu
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on web development
 - 📫 Please reach me by email: seanyu.xy@gmail.com
